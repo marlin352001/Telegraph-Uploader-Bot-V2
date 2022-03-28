@@ -15,6 +15,6 @@ An advanced telegram media to telegraph uploader bot
 
 ## Old Version
 
-- [Telegraph-Uploader-Bot](https://github.com/FayasNoushad/Telegraph-Uploader-Bot)
+- [Telegraph-Uploader-Bot](https://github.com/marlin352001/Telegraph-Uploader-Bot-V2)
 
 ---
